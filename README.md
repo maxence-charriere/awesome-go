@@ -721,7 +721,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 *Toolkits*
 
-* [app](https://github.com/murlokswarm/app) - Package to create apps with GO, HTML and CSS. Supports: MacOS, Windows in progress.
+* [app](https://github.com/maxence-charriere/app) - Package to create WASM based GUI with GO, HTML and CSS.
 * [fyne](https://github.com/fyne-io/fyne) - Cross platform native GUIs designed for Go, rendered using EFL. Supports: Linux, macOS, Windows.
 * [go-astilectron](https://github.com/asticode/go-astilectron) - Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron).
 * [go-gtk](http://mattn.github.io/go-gtk/) - Go bindings for GTK.
